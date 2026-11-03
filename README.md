@@ -43,6 +43,6 @@ Le rapport s'appuie sur trois ensembles de données :
 
 ## 👩‍💻 À propos
 
-Projet réalisé dans le cadre de mon apprentissage de la Business Intelligence et de l'analyse de données.
+Projet réalisé dans le cadre de ma préparation à l'examen Microsoft Azure Data Fundamentals (DP-900).
 
 📧 [Me contacter](mailto:youmnath.moutairou@groupe-esigelec.org) · 💼 [LinkedIn](https://www.linkedin.com/in/youmnath-moutairou/) · 🐙 [Profil GitHub](https://github.com/Youmnath)

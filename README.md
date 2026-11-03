@@ -27,7 +27,12 @@ Le rapport s'appuie sur trois ensembles de données :
 ## 📂 Contenu du dépôt
 
 - [`Rapports de ventes.pbix`](./Rapports%20de%20ventes.pbix) : rapport Power BI ouvrable dans Power BI Desktop.
-- `captures/` : emplacement prévu pour une capture d'écran du rapport (à ajouter).
+//- `captures/` : emplacement prévu pour une capture d'écran du rapport (à ajouter).
+  
+## 📊 Aperçu du tableau de bord
+
+![Tableau de bord Power BI — Analyse des ventes](./dashboard-ventes.png)
+  
 
 ## ▶️ Ouvrir le rapport
 
